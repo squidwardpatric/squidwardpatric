@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @squidwardpatric
-- 👀 I’m interested in  internet ofthong and applicaton mobile 
-- 🌱 I’m currently learning pyyton c++
+- 👀 I’m interested in  internet of thing and applicaton mobile 
+- 🌱 I’m currently learning pyhton c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
